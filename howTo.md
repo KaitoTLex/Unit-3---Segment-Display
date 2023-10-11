@@ -1,6 +1,6 @@
 # Week 3  
 
-mmmmmm display
+mmmmmm led display
 
 ### Agenda  
 
