@@ -1,5 +1,7 @@
 # Week 3  
 
+mmmmmm display
+
 ### Agenda  
 
 Learn how to use the segment display and how to impliment it as a function
